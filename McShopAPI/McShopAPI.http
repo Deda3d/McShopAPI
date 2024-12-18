@@ -1,0 +1,6 @@
+@McShopAPI_HostAddress = http://localhost:5087
+
+GET {{McShopAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
